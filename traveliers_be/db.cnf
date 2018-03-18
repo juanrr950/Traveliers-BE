@@ -1,0 +1,6 @@
+[client]
+host = localhost
+database = traveliers_db
+user = tr-db-admin
+password = TR@adm1n-db
+default-character-set = utf8mb4
